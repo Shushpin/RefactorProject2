@@ -20,7 +20,7 @@ public class Main {
 
         Order order3 = new OrderBuilder()
                 .withCustomerType("new")
-                .addItem(new Item("Mango", 5.0, 2))
+                .addItem(new Item("Mango", 5.0, 3))
                 .addItem(new Item("Peach", 3.0, 4))
                 .build();
         store.addOrder(order3);
