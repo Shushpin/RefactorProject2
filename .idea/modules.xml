@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/RefakProject.iml" filepath="$PROJECT_DIR$/RefakProject.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort.iml" />
->>>>>>> c3674246d4f7979e00b72236735f5535ecff8072
     </modules>
   </component>
 </project>
